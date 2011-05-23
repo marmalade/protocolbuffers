@@ -1,0 +1,38 @@
+includepaths
+{
+	"source"
+}
+
+files
+{
+	libprotobuf-lite.mkf
+
+	("source")
+	google\protobuf\io\coded_stream.h
+    google\protobuf\io\coded_stream_inl.h
+    google\protobuf\stubs\common.h
+    config.h
+    google\protobuf\extension_set.h
+    google\protobuf\generated_message_util.h
+    google\protobuf\stubs\hash.h
+    google\protobuf\stubs\map-util.h
+    google\protobuf\message_lite.h
+    google\protobuf\stubs\once.h
+    google\protobuf\repeated_field.h
+    google\protobuf\stubs\stl_util-inl.h
+    google\protobuf\wire_format_lite.h
+    google\protobuf\wire_format_lite_inl.h
+    google\protobuf\io\zero_copy_stream.h
+    google\protobuf\io\zero_copy_stream_impl_lite.h
+  
+    google\protobuf\io\coded_stream.cpp
+    google\protobuf\stubs\common.cpp
+    google\protobuf\extension_set.cpp
+    google\protobuf\generated_message_util.cpp
+    google\protobuf\message_lite.cpp
+    google\protobuf\stubs\once.cpp
+    google\protobuf\repeated_field.cpp
+    google\protobuf\wire_format_lite.cpp
+    google\protobuf\io\zero_copy_stream.cpp
+    google\protobuf\io\zero_copy_stream_impl_lite.cpp	
+}

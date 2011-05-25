@@ -2,7 +2,7 @@ I have managed to add the lite version of Google Protocol Buffers as a 3rd party
 
 Drop it in \Airplay SDK\4.4\modules\third_party
 
-and add to subprojects like so:
+and add to subprojects like so in your mkb file:
 
 subprojects
 {

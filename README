@@ -1,6 +1,6 @@
-I have managed to add the lite version of Google Protocol Buffers as a 3rd party plugin for Airplay. I've attached the zip.
+I have managed to add the lite version of Google Protocol Buffers as a 3rd party plugin for Marmalade. I've attached the zip.
 
-Drop it in \Airplay SDK\4.4\modules\third_party
+Drop it into the \modules\third_party folder in the SDK
 
 and add to subprojects like so in your mkb file:
 
